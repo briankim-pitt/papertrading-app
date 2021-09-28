@@ -1,0 +1,6 @@
+framework module Pods_APCS_Stock_APCS_StockUITests {
+  umbrella header "Pods-APCS Stock-APCS StockUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-APCS Stock/Pods-APCS Stock-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Charts/Charts.framework
+${BUILT_PRODUCTS_DIR}/DropDown/DropDown.framework
+${BUILT_PRODUCTS_DIR}/TinyConstraints/TinyConstraints.framework
